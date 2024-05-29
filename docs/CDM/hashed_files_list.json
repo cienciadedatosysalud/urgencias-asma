@@ -1,0 +1,280 @@
+{
+    "files": [
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\cdmb_config.json",
+            "hash": "e8d47f40ca9ee3d931170d6c0fb88cff"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\cohort_definition_inclusion.csv",
+            "hash": "9f41bd0486e015a91b96b32ac55e3060"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\common_datamodel.xlsx",
+            "hash": "cec771e89711aa233c203798875d3075"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\continuidad_asistencial\\validation-rules\\rules_set_continuidad_asistencial.json",
+            "hash": "78482ea983dae0f4bcd97d3f0455d71e"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\alergia_atopia_bl.csv",
+            "hash": "629de1d0c9aa77c463e233ccaa4c2f6b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\ansiedad_bl.csv",
+            "hash": "00dafb9f00bd26fbfe5eb2f3c975b024"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\apnea_bl.csv",
+            "hash": "3fb5cd85133820f9fdfab1f56c9a0bf7"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\atc_tabaquismo_cd.csv",
+            "hash": "13b53dc3495039c9f82d70d262fe0434"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\depresion_bl.csv",
+            "hash": "84ed207bb0dd918da8ab6f69a12581ba"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\epoc_bl.csv",
+            "hash": "5399f9f4ae624fa235beaaed1b83d39a"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\obesidad_bl.csv",
+            "hash": "32bd3312ea8e06d2fbe1dfa5a4dd084b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\reflugo_bl.csv",
+            "hash": "36b29cc09133490cee3db02673b10c02"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\rinosinusitis_bl.csv",
+            "hash": "c601d586af2b948c4ec5135fc96f876b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\sobrepeso_bl.csv",
+            "hash": "681e64585ae8fecd3ad7424917cda55c"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\tabaquismo_bl.csv",
+            "hash": "4a25a93cf5b848b6f2bb1fcee23c7884"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\validation-rules\\rules_set_patient.json",
+            "hash": "78482ea983dae0f4bcd97d3f0455d71e"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\tratamientos\\catalogs\\asma_atc_codes_cd.csv",
+            "hash": "3abc9cae9f2c48df639561d6190da821"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\tratamientos\\validation-rules\\rules_set_tratamientos.json",
+            "hash": "78482ea983dae0f4bcd97d3f0455d71e"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\ER.gv",
+            "hash": "65387f6f0e20477245783f6028e6e1c0"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\synthetic-data\\synthetic_continuidad_asistencial.csv",
+            "hash": "a5e940eff0e70ad44f9118f809f927a4"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\synthetic-data\\synthetic_patient.csv",
+            "hash": "8e964cbadaf23f45e77572ce17bb59f6"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\synthetic-data\\synthetic_tratamientos.csv",
+            "hash": "cf2642aec075ebb5e623f40363e742ae"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\inputs\\data.duckdb",
+            "hash": "e78950b02d9eb329dd5f8311c6888d20"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\inputs\\readme.txt",
+            "hash": "52039a1eabfedece8bc5825b1e2ca83d"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\LICENSE.md",
+            "hash": "527dc6cad772ccb187d5bfe5af738204"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\man_container_deployment.md",
+            "hash": "be3c5cbc5077fc7eff26536315bffa78"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\outputs\\logs\\readme.txt",
+            "hash": "96ce67054dc340e41b7dd13721163067"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\outputs\\readme.txt",
+            "hash": "122232d632a879afd16e671f9b81c845"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\README.md",
+            "hash": "30c07b4019d0ddf8443a9a7611dc8f4f"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\ro-crate-metadata.json",
+            "hash": "e13336ad8e82c9bf0dc708a71afdcc74"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\analysis-scripts\\r_report_template.qmd",
+            "hash": "82495de8927159ebb7924b36f611b0b2"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\analysis-scripts\\_quarto.yml",
+            "hash": "aa2f538702b55d59e782d63d463a75a7"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\check_load-scripts\\check_load.py",
+            "hash": "3dd6bfc1f3530c5affbcde0cd5ba6c58"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\check_load-scripts\\inputs\\readme.txt",
+            "hash": "52039a1eabfedece8bc5825b1e2ca83d"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\dqa-scripts\\dqa.py",
+            "hash": "093bdfb4f475c487661d16c4ae9c018d"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\validation-scripts\\validator.py",
+            "hash": "2a78c043ae7f75560ea258665b78300b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\validation-scripts\\validator_report.qmd",
+            "hash": "f0cecbcff141a9f6cbaa1b1df60e7818"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\src\\validation-scripts\\_quarto.yml",
+            "hash": "aa2f538702b55d59e782d63d463a75a7"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\cdmb_config.json",
+            "hash": "e8d47f40ca9ee3d931170d6c0fb88cff"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\cohort_definition_inclusion.csv",
+            "hash": "9f41bd0486e015a91b96b32ac55e3060"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\common_datamodel.xlsx",
+            "hash": "cec771e89711aa233c203798875d3075"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\continuidad_asistencial\\validation-rules\\rules_set_continuidad_asistencial.json",
+            "hash": "78482ea983dae0f4bcd97d3f0455d71e"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\alergia_atopia_bl.csv",
+            "hash": "629de1d0c9aa77c463e233ccaa4c2f6b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\ansiedad_bl.csv",
+            "hash": "00dafb9f00bd26fbfe5eb2f3c975b024"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\apnea_bl.csv",
+            "hash": "3fb5cd85133820f9fdfab1f56c9a0bf7"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\atc_tabaquismo_cd.csv",
+            "hash": "13b53dc3495039c9f82d70d262fe0434"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\depresion_bl.csv",
+            "hash": "84ed207bb0dd918da8ab6f69a12581ba"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\epoc_bl.csv",
+            "hash": "5399f9f4ae624fa235beaaed1b83d39a"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\obesidad_bl.csv",
+            "hash": "32bd3312ea8e06d2fbe1dfa5a4dd084b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\reflugo_bl.csv",
+            "hash": "36b29cc09133490cee3db02673b10c02"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\rinosinusitis_bl.csv",
+            "hash": "c601d586af2b948c4ec5135fc96f876b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\sobrepeso_bl.csv",
+            "hash": "681e64585ae8fecd3ad7424917cda55c"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\catalogs\\tabaquismo_bl.csv",
+            "hash": "4a25a93cf5b848b6f2bb1fcee23c7884"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\patient\\validation-rules\\rules_set_patient.json",
+            "hash": "78482ea983dae0f4bcd97d3f0455d71e"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\tratamientos\\catalogs\\asma_atc_codes_cd.csv",
+            "hash": "3abc9cae9f2c48df639561d6190da821"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\entities\\tratamientos\\validation-rules\\rules_set_tratamientos.json",
+            "hash": "78482ea983dae0f4bcd97d3f0455d71e"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\synthetic-data\\synthetic_continuidad_asistencial.csv",
+            "hash": "a5e940eff0e70ad44f9118f809f927a4"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\synthetic-data\\synthetic_patient.csv",
+            "hash": "8e964cbadaf23f45e77572ce17bb59f6"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\docs\\CDM\\synthetic-data\\synthetic_tratamientos.csv",
+            "hash": "cf2642aec075ebb5e623f40363e742ae"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\inputs\\data.duckdb",
+            "hash": "e78950b02d9eb329dd5f8311c6888d20"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\LICENSE.md",
+            "hash": "527dc6cad772ccb187d5bfe5af738204"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\man_container_deployment.md",
+            "hash": "be3c5cbc5077fc7eff26536315bffa78"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\README.md",
+            "hash": "30c07b4019d0ddf8443a9a7611dc8f4f"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\src\\analysis-scripts\\r_report_template.qmd",
+            "hash": "82495de8927159ebb7924b36f611b0b2"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\src\\analysis-scripts\\_quarto.yml",
+            "hash": "aa2f538702b55d59e782d63d463a75a7"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\src\\dqa-scripts\\dqa.py",
+            "hash": "093bdfb4f475c487661d16c4ae9c018d"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\src\\validation-scripts\\validator.py",
+            "hash": "2a78c043ae7f75560ea258665b78300b"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\src\\validation-scripts\\validator_report.qmd",
+            "hash": "f0cecbcff141a9f6cbaa1b1df60e7818"
+        },
+        {
+            "filename": ".\\tmpv56np2fg\\20240529094929_cdmb\\tmpv56np2fg\\20240529094929_cdmb\\src\\validation-scripts\\_quarto.yml",
+            "hash": "aa2f538702b55d59e782d63d463a75a7"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+encoding,code,code_clean,description,source,observations
+icd-9,493%,493%,Asma,,
+icd-9,519.11%,51911%,Broncoespasmo agudo,,
+icd-9,490%,490%,Bronquitis no especificada como aguda o crónica,,
+icd-9,466.0%,4660%,Bronquitis aguda,,
+icd-9,506.0%,5060%,"Bronquitis debida a productos químicos, gases, humos y vapores",,
+icd-10,J45%,J45%,Asma,,
+icd-10,J82.83%,J8283%,Asma eosinofílica,,
+icd-10,J98.01%,J9801%,Broncoespasmo agudo,,
+icd-10,J40%,J40%,Bronquitis no especificada como aguda o crónica,,
+icd-10,J20%,J20%,Bronquitis aguda,,
+icd-10,J68.0%,J68.0%,"Bronquitis debida a productos químicos, gases, humos y vapores",,

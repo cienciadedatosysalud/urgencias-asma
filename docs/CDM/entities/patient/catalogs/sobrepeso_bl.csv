@@ -1,0 +1,5 @@
+encoding,code,code_clean,description,source,observations
+icd-9,278.02%,27802%,Sobrepeso,cmbd,
+icd-9,278.1%,2781%,Sobrepeso,cmbd,
+icd-10,E66.3%,E663%,Sobrepeso,cmbd,
+ciap-2,T83,T83,Sobrepeso,omi-ap,

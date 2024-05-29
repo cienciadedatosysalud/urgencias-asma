@@ -1,0 +1,4 @@
+encoding,code,code_clean,description,source,observations
+icd-9,300.0%,3000%,Estados de ansiedad,cmbd,
+icd-10,F41%,F41%,Otros trastornos de ansiedad,cmbd,
+ciap-1,P74,P74,Trastornos de la ansiedad o estado de ansiedad,omi-ap,

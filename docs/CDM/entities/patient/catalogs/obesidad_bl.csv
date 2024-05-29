@@ -1,0 +1,10 @@
+encoding,code,code_clean,description,source,observations
+icd-9,278.00%,27800%,Obesidad no especificada,cmbd,
+icd-9,278.01%,27801%,Obesidad mórbida,cmbd,
+icd-9,278.03%,27803%,Obesidad con restricción respiratoria,cmbd,
+icd-10,E66.0%,E660%,Obesidad debida a exceso de calorías,cmbd,
+icd-10,E66.1%,E661%,Obesidad inducida por fármacos,cmbd,
+icd-10,E66.2%,E662%,Obesidad con restricción respiratoria,cmbd,
+icd-10,E66.8%,E668%,Otros tipos de obesidad,cmbd,
+icd-10,E66.9%,E669%,Obesidad no especificada,cmbd,
+ciap1,T82,T82,Obesidad,omi-ap,

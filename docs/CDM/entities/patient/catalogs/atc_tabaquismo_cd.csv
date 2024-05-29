@@ -1,0 +1,7 @@
+encoding,code,code_clean,description,source,observations,atc_tabaquismo_cd
+icd-9,989.84%,98984%,Efecto t√≥xico del tabaco,cmbd,,2
+icd-9,V15.82%,V1582%,Historia consumo de tabaco,cmbd,,1
+icd-9,305.1%,3051%,Trastorno por consumo de tabaco,cmbd,,2
+icd-10,Z72.0%,Z720%,Fumador activo,cmbd,,2
+icd-10,O99.33%,O9933%,Fumadora activa (durante embarazo),cmbd,,2
+icd-10,Z87.891%,Z87891%,Historia de dependencia a la nicotina,cmbd,,1

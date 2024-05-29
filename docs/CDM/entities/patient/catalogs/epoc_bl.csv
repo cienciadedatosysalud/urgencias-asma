@@ -1,0 +1,11 @@
+encoding,code,code_clean,description,source,observations
+icd-9,490%,490%,,cmbd,
+icd-9,491%,491%,,cmbd,
+icd-9,496%,496%,,cmbd,
+icd-10,J40%,J40%,,cmbd,
+icd-10,J41%,J41%,,cmbd,
+icd-10,J42%,J42%,,cmbd,
+icd-10,J43%,J43%,,cmbd,
+icd-10,J44%,J44%,,cmbd,
+icd-10,J47%,J47%,,cmbd,
+ciap-1,R95,R95,Enfermedad pulmonar obstructiva cr√≥nica (EPOC),omi-ap,

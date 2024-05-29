@@ -1,0 +1,5 @@
+encoding,code,code_clean,description,source,observations
+icd-9,780.53%,78053%,Hipersomnia con apnea del sueño no especificada,cmbd,
+icd-9,780.57%,78057%,Apnea del sueño no especificada,cmbd,
+icd-9,327.2%,3272%,Apnea del sueño orgánica,cmbd,
+icd-10,G47.3%,G473%,Apnea del sueño,cmbd,

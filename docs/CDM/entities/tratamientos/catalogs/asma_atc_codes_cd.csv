@@ -1,0 +1,28 @@
+encoding,code,code_clean,description,source,observations
+atc,RD03DX05,RD03DX05,omalizumab,WHO,anticuerpos monoclonales
+atc,RD03DX09,RD03DX09,mepolizumab,WHO,anticuerpos monoclonales
+atc,RD03DX08,RD03DX08,reslizumab,WHO,anticuerpos monoclonales
+atc,RD03DX10,RD03DX10,benralilzumab,WHO,anticuerpos monoclonales
+atc,D11AH05,D11AH05,dupilumab,WHO,anticuerpos monoclonales
+atc,R03DXQ11,R03DXQ11,tezepelumab,WHO,anticuerpos monoclonales
+atc,R03DC03,R03DC03,montelukast,WHO,antileucotrienos
+atc,R03BA01,R03BA01,beclometasona,WHO,glucocorticoides inhalados (GCI)
+atc,R03BA02,R03BA02,budesonida,WHO,glucocorticoides inhalados (GCI)
+atc,R03BA05,R03BA05,fluticasona,WHO,glucocorticoides inhalados (GCI)
+atc,R03BA07,R03BA07,mometasona,WHO,glucocorticoides inhalados (GCI)
+atc,R03BA08,R03BA08,ciclesonida,WHO,glucocorticoides inhalados (GCI)
+atc,R03BA09,R03BA09,fluticasona fuorato,WHO,glucocorticoides inhalados (GCI)
+atc,R03CC02,R03CC02,salbutamol,WHO,broncodilatadores beta-adrenérgicos de acción corta (SABA)
+atc,R03AC03,R03AC03,terbutalina,WHO,broncodilatadores beta-adrenérgicos de acción corta (SABA)
+atc,R03AK08,R03AK08,beclometasona + formoterol,WHO,combinaciones GCI+LABA
+atc,R03AK07,R03AK07,budesonida + formoterol,WHO,combinaciones GCI+LABA
+atc,R03AK11,R03AK11,fluticasona + formoterol,WHO,combinaciones GCI+LABA
+atc,R03AK14,R03AK14,mometasona + indacaterol,WHO,combinaciones GCI+LABA
+atc,R03AK06,R03AK06,fluticasona + salmeterol,WHO,combinaciones GCI+LABA
+atc,R03AK10,R03AK10,fluticasona fuorato + vilanterol,WHO,combinaciones GCI+LABA
+atc,R03AL09,R03AL09,beclometasona + formoterol + glicopirronio,WHO,combinaciones GCI+LABA + antimuscarínicos de acción prolongada (LAMA)
+atc,R03AL12,R03AL12,indacaterol + glicopirronio + mometasona,WHO,combinaciones GCI+LABA + antimuscarínicos de acción prolongada (LAMA)
+atc,R03BB04,R03BB04,tiotropio,WHO,combinaciones GCI+LABA + antimuscarínicos de acción prolongada (LAMA)
+atc,R03BB06,R03BB06,glicopirronio,WHO,combinaciones GCI+LABA + antimuscarínicos de acción prolongada (LAMA)
+atc,H02AB07,H02AB07,prednisona,WHO,glucocorticoides orales (CO)
+atc,H02AB13,H02AB13,deflazacort,WHO,glucocorticoides orales (CO)
