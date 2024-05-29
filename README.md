@@ -122,8 +122,8 @@ Bernal-Delgado, Enrique|Instituto Aragonés de Ciencias de la Salud (IACS)|[0000
 Version 0.0.1
 
 # How to contribute
-- Repository: https://github.com/your_user/your_repository/
-- Issue tracker: https://github.com/your_user/your_repository/issues
+- Repository: https://github.com/cienciadedatosysalud/urgencias-asma/
+- Issue tracker: https://github.com/cienciadedatosysalud/urgencias-asma/issues
 
 # References
 - Data Science for Health Services and Policy Research group: https://cienciadedatosysalud.org/en/
