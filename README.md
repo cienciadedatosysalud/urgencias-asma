@@ -26,14 +26,14 @@ El objetivo principal de este estudio es caracterizar los pacientes adultos que 
 Estudio observacional, retrospectivo, de los pacientes que acudieron a urgencias hospitalarias en cualquiera de los hospitales SNS de Aragón durante el año 2022 para el tratamiento de una crisis de asma (o síndromes relacionados) a partir de la reutilización de datos sanitarios.
 
 ## Definición de la cohorte
-Pacientes adultos (mayores de 18 años) residentes en Aragón y con tarjeta sanitaria con al menos un episodio de asistencia en urgencias hospitalarias (o con un ingreso hospitalario no programado) con diagnóstico principal de asma moderada/severa (J45.4, J45.5, J45.90) durante el periodo de estudio.
+Pacientes adultos (>= 15 años) residentes en Aragón y con tarjeta sanitaria con al menos un episodio de asistencia en urgencias hospitalarias (o con un ingreso hospitalario no programado) con diagnóstico principal de asma moderada/severa (J45.4, J45.5, J45.90) durante el periodo de estudio.
 
 ### Criterios de inclusión
-Adultos (18 años o mayores), residentes en Aragón, que hayan acudido a urgencias hospitalarias (o hayan ingresado en hospital de forma no programada) con un diagnósticos principal de asma persistente moderada o grave.
+Adultos (15 años o mayores), residentes en Aragón, que hayan acudido a urgencias hospitalarias (o hayan ingresado en hospital de forma no programada) con un diagnósticos principal de asma persistente moderada o grave.
 
 ### Criterios de exclusión
-- Menores de 18 años,
-- Ingresos hospitalarios programados por cualquier diagnóstico,
+- Pacientes pediátricos (menores de 15 años)
+- Ingresos hospitalarios programados por cualquier diagnóstico
 - Pacientes con diagnóstico secundario en listado cie-10 {_E84%, P27%, Q254%, Q31%, Q32%, Q33%, Q34%, Q39%, Q893%_}
 
 ### Periodo de estudio: 
@@ -43,18 +43,18 @@ Desde el 1 de enero de 2022 hasta el 31 de diciembre de 2022.
 
 # Detalles técnicos del contenido del respositorio (EN)
 # Outputs
-Outputs structure and content is described below including the files and folders that are generated when creating a research project with the `cdmb` Python library. There are four main folders corresponding to:
+Output structure and content are described below, including the files and folders generated when creating a research project with the `cdmb` Python library. There are four main folders corresponding to:
 
 - __docs/CDM/__
   - **cdmb_config.json**: Configuration file.
-  - **cohort_definition_inclusion.csv**: csv file that defines the criteria (i.e., codes) for inclusion in a cohort.
-  - **cohort_definition_exclusion.csv**: csv file that defines the criteria (i.e., codes) for exclusion in a cohort.
+  - **cohort_definition_inclusion.csv**: CSV file that defines the criteria (i.e., codes) for inclusion in a cohort.
+  - **cohort_definition_exclusion.csv**: CSV file that defines the criteria (i.e., codes) for exclusion in a cohort.
   - **common_datamodel.xlsx**: The definition of the common data model in Excel format.
-  - **entities/**: Folder structure where, for each defined entity, the catalogs and the established validation rules are stored.
+  - **entities/**: Folder structure where, for each defined entity, the catalogues and the established validation rules are stored.
   - **ER.gv, ER.gv.png**: an Entity-Relationship Diagram of the entities included in the CDM.
-  - **synthetic-data/**: Folder structure contaning an automatically generated set of 1000 synthetic records per entity included en the CDM.
+  - **synthetic-data/**: Folder structure containing an automatically generated set of 1000 synthetic records per entity included in the CDM.
   - **hashed_files_list.json**: List of the files generated or used after generating the project with their md5 hash. This file must be kept hidden 
-and should be used to cross-check with the results obtained from the analysis from the original input files.
+and should be used to cross-check with the results obtained from the analysis of the original input files.
 - __inputs/__
   - **data.duckdb**: Database that temporarily contains the data entered by the user (synthetic data by default)
 - __outputs/__
@@ -62,22 +62,22 @@ and should be used to cross-check with the results obtained from the analysis fr
 - __src/__
   - __analysis-scripts/__
     - (directory where the analysis scripts developed by the user are stored)
-    - **r_report_template.qmd**: Quarto document, with an example analysis, showing the interaction with the folder structure and files generated in the project.
+    - **r_report_template.qmd**: A Quarto document with an example analysis showing the interaction with the folder structure and files generated in the project.
     - **_quarto.yml**: File containing the Metadata to execute Quarto documents.
   - __check_load-scripts/__
-    - **check_load.py**: Script in charge of the mapping between the files introduced by the user (./inputs) and map them to the defined entities (inputs/data.duckdb). 
-    In the loading process, the following checks are performed: Name of the variables match; the format/type of the variables match those established in the configuration.
+    - **check_load.py**: Script in charge of the mapping between the files introduced by the user (./inputs) and mapping them to the defined entities (inputs/data.duckdb). 
+    In the loading process, the following checks are performed: The variables' names match, and their format/type matches those established in the configuration.
     - __inputs/__: Auxiliary folder for the script 'check_load.py'.
   - __dqa-scripts/__
-    - **dqa.py**: Data Quality Assesment script by default.
+    - **dqa.py**: Data Quality Assessment script by default.
   - **validation-scripts/**
     - **validator.py**: Script in charge of applying the validation rules to the data.
-    - **valididator_report.qmd**: Quarto document that generates a report in html from the results obtained from 'validator.py'. 
+    - **valididator_report.qmd**: Quarto document that generates a report in HTML from the results obtained from 'validator.py'. 
     - **_quarto.yml**: File containing metadata to execute Quarto documents.
-- **ro-crate-metadata.json**: Accessible and practical formal metadata description for use in a wider variety of situations, 
-from an individual researcher working with a folder of data, to large data-intensive computational research environments. For more information, visit [RO-Crate](https://www.researchobject.org/ro-crate/).
-- **man_container_deployment.md**: From Data Science for Health Services and Policy Research group we provide in the following
-  GitHub repository, a solution, for the deployment of the generated project. This step is optional.
+- **ro-crate-metadata.json**: Accessible and practical formal metadata description for use in various situations, 
+from an individual researcher working with a folder of data to large data-intensive computational research environments. For more information, visit [RO-Crate](https://www.researchobject.org/ro-crate/).
+- **man_container_deployment.md**: From the Data Science for Health Services and Policy Research Group, we provide the following
+  GitHub repository is a solution for the deployment of the generated project. This step is optional.
 - **LICENSE.md**: Project license (CC BY 4.0 by default).
 
 
@@ -127,7 +127,7 @@ Version 0.0.1
 
 # References
 - Data Science for Health Services and Policy Research group: https://cienciadedatosysalud.org/en/
-- Common Data Model Builder library :https://github.com/cienciadedatosysalud/cdmb
+- Common Data Model Builder library:https://github.com/cienciadedatosysalud/cdmb
 - Analytic Software Pipeline Interface for Reproducible Execution (ASPIRE): https://github.com/cienciadedatosysalud/ASPIRE
 - Atlas VPM community in Zenodo: https://zenodo.org/communities/atlasvpm
 - Research Object Crate (RO-Crate): https://www.researchobject.org/ro-crate/
