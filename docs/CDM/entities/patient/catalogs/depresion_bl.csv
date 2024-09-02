@@ -1,4 +1,4 @@
 encoding,code,code_clean,description,source,observations
-icd-9,311%,311%,"Trastorno depresivo, no clasificado bajo otros conceptos",cmbd,
+icd-9,311%,311%,Trastorno depresivo no clasificado bajo otros conceptos,cmbd,
 icd-10,F32%,F32%,Episodio depresivo,cmbd,
-ciap-1,P76 ,P76 ,DepresiÃ³n/trastornos depresivos,omi-ap,
+ciap-1,P76,P76,Depresion trastornos depresivos,omi-ap,
