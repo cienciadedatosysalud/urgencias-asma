@@ -1,6 +1,8 @@
 encoding,code,code_clean,description,source,observations
 icd-9,995%,995%,Alegria no especificada o atopia,cmbd,
 icd-10,T78%,T78%,Alegia no especificada o atopia,cmbd,
-ciap-1,A92,A92,Alergia/reacciones alérgicas NE,omi-ap,
+ciap-1,A12,A12,Alergia/reacciones alérgicas NE,omi-ap,
 ciap-1,S87,S87,Dermatitis/eccema atópico,omi-ap,
 ciap-1,S88,S88,Dermatitis de contacto/alérgica,omi-ap,
+ciap-1,F71,F71,Conjuntivitis alérgica,omi-ap,
+ciap-1,R97,R97,Fiebre del heno/rinitis alérgica,omi-ap,

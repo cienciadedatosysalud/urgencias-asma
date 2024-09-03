@@ -5,104 +5,110 @@
             "@id": "./",
             "@type": "Dataset",
             "creator": "Common Data Model Builder",
-            "datePublished": "2024-08-26T13:50:55+00:00",
+            "datePublished": "2024-09-03T10:46:33+00:00",
             "description": "Caracterizaci\u00f3n de pacientes adultos con crisis de asma severa atendidos en los servicios de urgencias de los hospitales de Arag\u00f3n y descripci\u00f3n del proceso asistencial tras alta m\u00e9dica",
             "hasPart": [
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/README.md"
+                    "@id": "README.md"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/LICENSE.md"
+                    "@id": "LICENSE.md"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/man_container_deployment.md"
+                    "@id": "man_container_deployment.md"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/.gitignore"
+                    "@id": ".gitignore"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/inputs/data.duckdb"
+                    "@id": "inputs/data.duckdb"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/src/dqa-scripts/dqa.py"
+                    "@id": "src/dqa-scripts/dqa.py"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/src/validation-scripts/validator.py"
+                    "@id": "src/validation-scripts/validator.py"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/src/validation-scripts/validator_report.qmd"
+                    "@id": "src/validation-scripts/validator_report.qmd"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/src/validation-scripts/_quarto.yml"
+                    "@id": "src/validation-scripts/_quarto.yml"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/src/analysis-scripts/r_report_template.qmd"
+                    "@id": "src/analysis-scripts/r_report_template.qmd"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/src/analysis-scripts/_quarto.yml"
+                    "@id": "src/analysis-scripts/_quarto.yml"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/cdmb_config.json"
+                    "@id": "docs/CDM/cdmb_config.json"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/common_datamodel.xlsx"
+                    "@id": "docs/CDM/common_datamodel.xlsx"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/cohort_definition_inclusion.csv"
+                    "@id": "docs/CDM/cohort_definition_inclusion.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/synthetic-data/synthetic_patient.csv"
+                    "@id": "docs/CDM/ER.gv.png"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/tabaquismo_bl.csv"
+                    "@id": "docs/CDM/ER.gv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/atc_tabaquismo_cd.csv"
+                    "@id": "docs/CDM/synthetic-data/synthetic_patient.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/sobrepeso_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/tabaquismo_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/obesidad_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/atc_tabaquismo_cd.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/reflugo_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/sobrepeso_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/alergia_atopia_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/obesidad_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/rinosinusitis_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/reflugo_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/ansiedad_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/alergia_atopia_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/depresion_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/rinosinusitis_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/apnea_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/ansiedad_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/epoc_bl.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/depresion_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/validation-rules/rules_set_patient.json"
+                    "@id": "docs/CDM/entities/patient/catalogs/apnea_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/synthetic-data/synthetic_continuidad_asistencial.csv"
+                    "@id": "docs/CDM/entities/patient/catalogs/epoc_bl.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/continuidad_asistencial/validation-rules/rules_set_continuidad_asistencial.json"
+                    "@id": "docs/CDM/entities/patient/validation-rules/rules_set_patient.json"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/synthetic-data/synthetic_tratamientos.csv"
+                    "@id": "docs/CDM/synthetic-data/synthetic_continuidad_asistencial.csv"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/tratamientos/catalogs/asma_atc_codes_cd.csv"
+                    "@id": "docs/CDM/entities/continuidad_asistencial/validation-rules/rules_set_continuidad_asistencial.json"
                 },
                 {
-                    "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/tratamientos/validation-rules/rules_set_tratamientos.json"
+                    "@id": "docs/CDM/synthetic-data/synthetic_tratamientos.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/tratamientos/catalogs/asma_atc_codes_cd.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/tratamientos/validation-rules/rules_set_tratamientos.json"
                 }
             ],
             "keywords": "adults, potentially avoidable hospitalizations, severe asthma, hospital, comparative effectiveness, process mining, risk classification",
@@ -126,43 +132,43 @@
             "name": "Carretero Gracia, Jos\u00e9 \u00c1ngel"
         },
         {
-            "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91",
+            "@id": "#f405b244-2f78-4637-958b-fda18bc15101",
             "@type": "Person",
             "affiliation": "Servicio de Neumolog\u00eda, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
             "name": "Carretero Gracia, Jos\u00e9 \u00c1ngel"
         },
         {
-            "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191",
+            "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac",
             "@type": "Person",
             "affiliation": "Servicio de Neumolog\u00eda, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
             "name": "Vera Solsona, Elisabet"
         },
         {
-            "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b",
+            "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3",
             "@type": "Person",
             "affiliation": "Servicio de Neumolog\u00eda, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
             "name": "Vera Solsona, Elisabet"
         },
         {
-            "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6",
+            "@id": "#fd1c3bfa-420a-4948-888a-e07651004532",
             "@type": "Person",
             "affiliation": "Servicio de Urgencias, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
             "name": "Marr\u00f3n Tundidor, Rafael"
         },
         {
-            "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac",
+            "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4",
             "@type": "Person",
             "affiliation": "Servicio de Urgencias, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
             "name": "Marr\u00f3n Tundidor, Rafael"
         },
         {
-            "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548",
+            "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16",
             "@type": "Person",
             "affiliation": "Servicio de Alergolog\u00eda, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
             "name": "P\u00e9rez Camo, Ignacio"
         },
         {
-            "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9",
+            "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931",
             "@type": "Person",
             "affiliation": "Servicio de Alergolog\u00eda, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
             "name": "P\u00e9rez Camo, Ignacio"
@@ -174,7 +180,7 @@
             "name": "Estupi\u00f1\u00e1n-Romero, Francisco"
         },
         {
-            "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e",
+            "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903",
             "@type": "Person",
             "affiliation": "Instituto Aragon\u00e9s de Ciencias de la Salud (IACS)",
             "name": "Estupi\u00f1\u00e1n-Romero, Francisco"
@@ -186,233 +192,233 @@
             "name": "Bernal-Delgado, Enrique"
         },
         {
-            "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2",
+            "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab",
             "@type": "Person",
             "affiliation": "Instituto Aragon\u00e9s de Ciencias de la Salud (IACS)",
             "name": "Bernal-Delgado, Enrique"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/README.md",
+            "@id": "README.md",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/markdown",
             "name": "README"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/LICENSE.md",
+            "@id": "LICENSE.md",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/markdown",
             "name": "License"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/man_container_deployment.md",
+            "@id": "man_container_deployment.md",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/markdown",
             "name": "Manual on how to deploy the project in a docker container"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/.gitignore",
+            "@id": ".gitignore",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/plain",
             "name": ".gitignore file"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/inputs/data.duckdb",
+            "@id": "inputs/data.duckdb",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "application/octet-stream",
             "name": "SQL OLAP auxiliary database"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/src/dqa-scripts/dqa.py",
+            "@id": "src/dqa-scripts/dqa.py",
             "@type": [
                 "File",
                 "SoftwareSourceCode"
@@ -422,44 +428,44 @@
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/plain",
             "name": "Data Quality Assessment script"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/src/validation-scripts/validator.py",
+            "@id": "src/validation-scripts/validator.py",
             "@type": [
                 "File",
                 "SoftwareSourceCode"
@@ -469,44 +475,44 @@
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/plain",
             "name": "Rules validator file"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/src/validation-scripts/validator_report.qmd",
+            "@id": "src/validation-scripts/validator_report.qmd",
             "@type": [
                 "File",
                 "SoftwareSourceCode"
@@ -516,44 +522,44 @@
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/plain",
             "name": "Rules validator report"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/src/validation-scripts/_quarto.yml",
+            "@id": "src/validation-scripts/_quarto.yml",
             "@type": [
                 "File",
                 "SoftwareSourceCode"
@@ -563,44 +569,44 @@
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/yaml",
             "name": "Rules validator report metadata"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/src/analysis-scripts/r_report_template.qmd",
+            "@id": "src/analysis-scripts/r_report_template.qmd",
             "@type": [
                 "File",
                 "SoftwareSourceCode"
@@ -610,44 +616,44 @@
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/plain",
             "name": "Quarto analysis script template"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/src/analysis-scripts/_quarto.yml",
+            "@id": "src/analysis-scripts/_quarto.yml",
             "@type": [
                 "File",
                 "SoftwareSourceCode"
@@ -657,961 +663,1049 @@
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/yaml",
             "name": "Analysis script report metadata"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/cdmb_config.json",
+            "@id": "docs/CDM/cdmb_config.json",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "application/json",
             "name": "CDM builder and project configuration file"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/common_datamodel.xlsx",
+            "@id": "docs/CDM/common_datamodel.xlsx",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             "name": "Common Data Model spreadsheet"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/cohort_definition_inclusion.csv",
+            "@id": "docs/CDM/cohort_definition_inclusion.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Crosswalks for the cohort definition inclusion"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/synthetic-data/synthetic_patient.csv",
+            "@id": "docs/CDM/ER.gv.png",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
+                }
+            ],
+            "encodingFormat": "image/png",
+            "name": "Entity Relationship Diagram PNG"
+        },
+        {
+            "@id": "docs/CDM/ER.gv",
+            "@type": "File",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0002-5933-0675"
+                },
+                {
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
+                },
+                {
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
+                },
+                {
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
+                },
+                {
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
+                },
+                {
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
+                },
+                {
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
+                },
+                {
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-6285-8120"
+                },
+                {
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-0961-3298"
+                },
+                {
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
+                }
+            ],
+            "encodingFormat": "text/plain",
+            "name": "Entity Relationship Diagram GV"
+        },
+        {
+            "@id": "docs/CDM/synthetic-data/synthetic_patient.csv",
+            "@type": "File",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0002-5933-0675"
+                },
+                {
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
+                },
+                {
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
+                },
+                {
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
+                },
+                {
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
+                },
+                {
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
+                },
+                {
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
+                },
+                {
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-6285-8120"
+                },
+                {
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-0961-3298"
+                },
+                {
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Synthetic data for entity: patient"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/tabaquismo_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/tabaquismo_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-tabaquismo_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/atc_tabaquismo_cd.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/atc_tabaquismo_cd.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-atc_tabaquismo_cd"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/sobrepeso_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/sobrepeso_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-sobrepeso_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/obesidad_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/obesidad_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-obesidad_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/reflugo_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/reflugo_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-reflujo_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/alergia_atopia_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/alergia_atopia_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-alergia_atopia_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/rinosinusitis_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/rinosinusitis_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-rinosinusitis_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/ansiedad_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/ansiedad_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-ansiedad_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/depresion_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/depresion_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-depresion_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/apnea_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/apnea_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-apnea_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/catalogs/epoc_bl.csv",
+            "@id": "docs/CDM/entities/patient/catalogs/epoc_bl.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for patient-epoc_bl"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/patient/validation-rules/rules_set_patient.json",
+            "@id": "docs/CDM/entities/patient/validation-rules/rules_set_patient.json",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "application/json",
             "name": "Rule set for entity: patient"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/synthetic-data/synthetic_continuidad_asistencial.csv",
+            "@id": "docs/CDM/synthetic-data/synthetic_continuidad_asistencial.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Synthetic data for entity: continuidad_asistencial"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/continuidad_asistencial/validation-rules/rules_set_continuidad_asistencial.json",
+            "@id": "docs/CDM/entities/continuidad_asistencial/validation-rules/rules_set_continuidad_asistencial.json",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "application/json",
             "name": "Rule set for entity: continuidad_asistencial"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/synthetic-data/synthetic_tratamientos.csv",
+            "@id": "docs/CDM/synthetic-data/synthetic_tratamientos.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Synthetic data for entity: tratamientos"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/tratamientos/catalogs/asma_atc_codes_cd.csv",
+            "@id": "docs/CDM/entities/tratamientos/catalogs/asma_atc_codes_cd.csv",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "text/csv",
             "name": "Catalog file for tratamientos-asma_atc_codes_cd"
         },
         {
-            "@id": "tmpy23qzet9/20240826155053_cdmb/docs/CDM/entities/tratamientos/validation-rules/rules_set_tratamientos.json",
+            "@id": "docs/CDM/entities/tratamientos/validation-rules/rules_set_tratamientos.json",
             "@type": "File",
             "author": [
                 {
                     "@id": "https://orcid.org/0000-0002-5933-0675"
                 },
                 {
-                    "@id": "#cbaeb976-b964-4550-8448-12dd0d0d6c91"
+                    "@id": "#f405b244-2f78-4637-958b-fda18bc15101"
                 },
                 {
-                    "@id": "#fc858915-cba5-4c19-8f7d-97c5fa74e191"
+                    "@id": "#0b7084da-ed7e-4331-a6cb-bb7140bfd9ac"
                 },
                 {
-                    "@id": "#6d5db73b-dd61-46fe-a357-ec1f897d633b"
+                    "@id": "#de0f52e6-f506-43f0-a187-f1ef0e15d4f3"
                 },
                 {
-                    "@id": "#3b1c6175-bb96-4c5e-a289-9e588bbf1fb6"
+                    "@id": "#fd1c3bfa-420a-4948-888a-e07651004532"
                 },
                 {
-                    "@id": "#16a7912e-0e33-4e9f-8232-45e4d6b61eac"
+                    "@id": "#8bc40cc2-9170-494b-bef0-bc51680f65f4"
                 },
                 {
-                    "@id": "#db2f789e-0e99-4b93-b5f5-b9338c6c3548"
+                    "@id": "#87b036f6-72e4-4c4e-b708-109253e02a16"
                 },
                 {
-                    "@id": "#a42a3022-1b25-41e3-83d6-97cd4b37a3f9"
+                    "@id": "#70f0a229-67d9-44e1-ab43-105eca74b931"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-6285-8120"
                 },
                 {
-                    "@id": "#f6955b2a-33e9-4d02-adf9-343ba19ad45e"
+                    "@id": "#8ecdb647-3ef5-46fe-8f24-83da860f7903"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-0961-3298"
                 },
                 {
-                    "@id": "#80ade871-640d-4c5a-9ea1-aa1a9a3743f2"
+                    "@id": "#6eb667c8-c325-4060-bf96-59543b7cd2ab"
                 }
             ],
             "encodingFormat": "application/json",
