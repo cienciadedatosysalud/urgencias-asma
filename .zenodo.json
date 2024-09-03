@@ -1,0 +1,46 @@
+{
+    "title": "CONCEPT-ASMA",
+    "description": "Caracterización de pacientes adultos con crisis de asma severa atendidos en los servicios de urgencias de los hospitales de Aragón y descripción del proceso asistencial tras alta médica",
+    "creators": [
+        {
+            "name": "Carretero Gracia, José Ángel",
+            "affiliation": "Servicio de Neumología, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
+            "orcid": "0000-0002-5933-0675"
+        },
+        {
+            "name": "Vera Solsona, Elisabet",
+            "affiliation": "Servicio de Neumología, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
+            "orcid": ""
+        },
+        {
+            "name": "Marrón Tundidor, Rafael",
+            "affiliation": "Servicio de Urgencias, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
+            "orcid": ""
+        },
+        {
+            "name": "Pérez Camo, Ignacio",
+            "affiliation": "Servicio de Alergología, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
+            "orcid": ""
+        },
+        {
+            "name": "Estupiñán-Romero, Francisco",
+            "affiliation": "Instituto Aragonés de Ciencias de la Salud (IACS)",
+            "orcid": "0000-0002-6285-8120"
+        },
+        {
+            "name": "Bernal-Delgado, Enrique",
+            "affiliation": "Instituto Aragonés de Ciencias de la Salud (IACS)",
+            "orcid": "0000-0002-0961-3298"
+        }
+    ],
+    "keywords": [
+        "adults",
+        "potentially avoidable hospitalizations",
+        "severe asthma",
+        "hospital",
+        "comparative effectiveness",
+        "process mining",
+        "risk classification"
+    ],
+    "license": "CC-BY-4.0" 
+}

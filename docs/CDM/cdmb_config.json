@@ -1,9 +1,9 @@
 {
-    "created_dt": "20240826155053_cdmb",
-    "cdmb_version": "1.3.6",
-    "uuid": "10fbf9be-3270-47e7-98d9-f0918001551f",
+    "created_dt": "20240903104633_cdmb",
+    "cdmb_version": "1.3.7",
+    "uuid": "c848cdb4-7d3f-4956-80fd-40b0e11b3619",
     "metadata": {
-        "uuid": "a55e872f-3c5a-4906-943c-8f30113c4b5d",
+        "uuid": "f8e201c8-f3dd-426f-976c-e3c6a3171178",
         "project": "CONCEPT-ASMA",
         "funder": "Sociedad Aragonesa de Aparato Respiratorio (SADAR)",
         "url_project": "",
@@ -13,33 +13,33 @@
         "version_sem": "0.0.1",
         "authors": [
             {
-                "name": "Carretero Gracia, JosÈ ¡ngel",
-                "affiliation": "Servicio de NeumologÌa, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
+                "name": "Carretero Gracia, Jos√© √Ångel",
+                "affiliation": "Servicio de Neumolog√≠a, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
                 "id": "0000-0002-5933-0675"
             },
             {
                 "name": "Vera Solsona, Elisabet",
-                "affiliation": "Servicio de NeumologÌa, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
+                "affiliation": "Servicio de Neumolog√≠a, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
                 "id": ""
             },
             {
-                "name": "MarrÛn Tundidor, Rafael",
+                "name": "Marr√≥n Tundidor, Rafael",
                 "affiliation": "Servicio de Urgencias, Hospital Universitario Miguel Servet de Zaragoza (HUMS)",
                 "id": ""
             },
             {
-                "name": "PÈrez Camo, Ignacio",
-                "affiliation": "Servicio de AlergologÌa, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
+                "name": "P√©rez Camo, Ignacio",
+                "affiliation": "Servicio de Alergolog√≠a, Hospital Universitario Royo Villanova de Zaragoza (HURV)",
                 "id": ""
             },
             {
-                "name": "EstupiÒ·n-Romero, Francisco",
-                "affiliation": "Instituto AragonÈs de Ciencias de la Salud (IACS)",
+                "name": "Estupi√±√°n-Romero, Francisco",
+                "affiliation": "Instituto Aragon√©s de Ciencias de la Salud (IACS)",
                 "id": "0000-0002-6285-8120"
             },
             {
                 "name": "Bernal-Delgado, Enrique",
-                "affiliation": "Instituto AragonÈs de Ciencias de la Salud (IACS)",
+                "affiliation": "Instituto Aragon√©s de Ciencias de la Salud (IACS)",
                 "id": "0000-0002-0961-3298"
             }
         ],
@@ -52,16 +52,16 @@
             "process mining",
             "risk classification"
         ],
-        "description": "CaracterizaciÛn de pacientes adultos con crisis de asma severa atendidos en los servicios de urgencias de los hospitales de AragÛn y descripciÛn del proceso asistencial tras alta mÈdica",
-        "notes": "2024-02-13: Primera versiÛn del modelo com˙n de datos\n2024-06-26: Actualizada especificaciÛn cÛdigos ciap-1 definiciÛn comorbilidades reflujo, alergia, y apnea sueÒo",
-        "spatial_coverage": "AragÛn",
+        "description": "Caracterizaci√≥n de pacientes adultos con crisis de asma severa atendidos en los servicios de urgencias de los hospitales de Arag√≥n y descripci√≥n del proceso asistencial tras alta m√©dica",
+        "notes": "2024-02-13: Primera versi√≥n del modelo com√∫n de datos\n2024-06-26: Actualizada especificaci√≥n c√≥digos ciap-1 definici√≥n comorbilidades reflujo, alergia, y apnea sue√±o",
+        "spatial_coverage": "Arag√≥n",
         "license": "CC BY 4.0 https://creativecommons.org/licenses/by/4.0/"
     },
     "cohort": {
         "name": "asma_severa_adultos",
-        "description": "Pacientes adultos (15 aÒos o mayores) residentes en AragÛn con al menos un episodio de asistencia en urgencias hospitalarias (o con un ingreso hospitalario no programado) con un diagnÛstico principal de asma moderada/severa (J45.4, J45.5, J45.90) durante el periodo de estudio",
-        "inclusion_criteria": "Adultos (15 aÒos o mayores), residentes en AragÛn, que hayan acudido a urgencias hospitalarias (o hayan ingresado en hospital de forma no programada) con un diagnÛsticos principal de asma persistente moderada o grave",
-        "exclusion_criteria": "PoblacÌon pedÌatrica (menores de 15 aÒos),\nIngresos hospitalarios programados, \nPacientes con diagnÛstico secundario en listado cie-10 {E84, P27, Q254, Q31, Q32, Q33, Q34, Q39, Q893}",
+        "description": "Pacientes adultos (15 a√±os o mayores) residentes en Arag√≥n con al menos un episodio de asistencia en urgencias hospitalarias (o con un ingreso hospitalario no programado) con un diagn√≥stico principal de asma moderada/severa (J45.4, J45.5, J45.90) durante el periodo de estudio",
+        "inclusion_criteria": "Adultos (15 a√±os o mayores), residentes en Arag√≥n, que hayan acudido a urgencias hospitalarias (o hayan ingresado en hospital de forma no programada) con un diagn√≥sticos principal de asma persistente moderada o grave",
+        "exclusion_criteria": "Poblac√≠on ped√≠atrica (menores de 15 a√±os),\nIngresos hospitalarios programados, \nPacientes con diagn√≥stico secundario en listado cie-10 {E84, P27, Q254, Q31, Q32, Q33, Q34, Q39, Q893}",
         "beggining_study_period": "2022-01-01",
         "end_study_period": "2022-12-31",
         "cohort_definition_inclusion": {
@@ -73,7 +73,7 @@
     },
     "entities": [
         {
-            "uuid": "88aee63a-7ef9-4ace-9201-e259134ae05d",
+            "uuid": "db023a01-7b45-4bc9-b459-4b1666092504",
             "name": "patient",
             "time_varying": false,
             "variables": [
@@ -87,7 +87,7 @@
                     "requirement_level": "Required",
                     "characteristic": "Observed",
                     "catalog_bl": false,
-                    "transformations_from_origin": "A aplicar algoritmo de pseudonimizaciÛn",
+                    "transformations_from_origin": "A aplicar algoritmo de pseudonimizaci√≥n",
                     "possible_data_source": "BDU",
                     "observations_comments": "",
                     "examples": "",
@@ -99,11 +99,11 @@
                     "standard_classification": "",
                     "format": "Integer",
                     "type": "Numerical",
-                    "units": "aÒos",
+                    "units": "a√±os",
                     "requirement_level": "Required",
                     "characteristic": "Calculated",
                     "catalog_bl": false,
-                    "transformations_from_origin": "Calculada a partir de la fecha de nacimiento como fecha de ingreso en cohorte menos fecha de nacimiento (en aÒos)",
+                    "transformations_from_origin": "Calculada a partir de la fecha de nacimiento como fecha de ingreso en cohorte menos fecha de nacimiento (en a√±os)",
                     "possible_data_source": "BDU",
                     "observations_comments": "",
                     "examples": "",
@@ -121,13 +121,13 @@
                     "catalog_bl": false,
                     "transformations_from_origin": "{0 = 'desconocido', 1 = 'masculino', 2 = 'femenino', 9 = 'no aplicable'}",
                     "possible_data_source": "BDU",
-                    "observations_comments": "AtenciÛn a la codificaciÛn durante el an·lisis {1 = 'hombre', 2 = 'mujer'}",
+                    "observations_comments": "Atenci√≥n a la codificaci√≥n durante el an√°lisis {1 = 'hombre', 2 = 'mujer'}",
                     "examples": "",
                     "catalog": null
                 },
                 {
                     "label": "main_dx_cd",
-                    "description": "DiagnÛstico principal al ingreso (en visita a urgencias o en ingreso hospitalario no programado)",
+                    "description": "Diagn√≥stico principal al ingreso (en visita a urgencias o en ingreso hospitalario no programado)",
                     "standard_classification": "icd-10-es",
                     "format": "String",
                     "type": "Categorical",
@@ -137,7 +137,7 @@
                     "catalog_bl": false,
                     "transformations_from_origin": "",
                     "possible_data_source": "",
-                    "observations_comments": "Comprobar cat·logo 'asma_cohort_definition.csv' ",
+                    "observations_comments": "Comprobar cat√°logo 'asma_cohort_definition.csv' ",
                     "examples": "",
                     "catalog": null
                 },
@@ -185,7 +185,7 @@
                     "catalog_bl": true,
                     "transformations_from_origin": "{0 = 'no fumador', 1 = 'fumador (o historia)'}",
                     "possible_data_source": "OMI-AP",
-                    "observations_comments": "TambiÈn puede obtenerse a partir de DGP TABACO= SI; o, DGP N⁄MERO DE CIGARRILLOS > 0",
+                    "observations_comments": "Tambi√©n puede obtenerse a partir de DGP TABACO= SI; o, DGP N√öMERO DE CIGARRILLOS > 0",
                     "examples": "",
                     "catalog": {
                         "column_name": "code_clean",
@@ -210,7 +210,7 @@
                 },
                 {
                     "label": "atc_tabaquismo_cd",
-                    "description": "Antecedentes de h·bito tab·quico registrados a nivel de episodio hospitalario",
+                    "description": "Antecedentes de h√°bito tab√°quico registrados a nivel de episodio hospitalario",
                     "standard_classification": "icd-9, icd-10",
                     "format": "String",
                     "type": "Categorical",
@@ -267,7 +267,7 @@
                 },
                 {
                     "label": "reflujo_bl",
-                    "description": "Antecedentes de reflujo gastroesof·gico (o pirosis) ",
+                    "description": "Antecedentes de reflujo gastroesof√°gico (o pirosis) ",
                     "standard_classification": "icd-9, icd-10, ciap-1",
                     "format": "Boolean",
                     "type": "Categorical",
@@ -305,7 +305,7 @@
                 },
                 {
                     "label": "rinosinusitis_bl",
-                    "description": "Antecedentes de rinosinusitis crÛnica con pÛlipos nasales ",
+                    "description": "Antecedentes de rinosinusitis cr√≥nica con p√≥lipos nasales ",
                     "standard_classification": "icd-9, icd-10, ciap-1",
                     "format": "Boolean",
                     "type": "Categorical",
@@ -362,7 +362,7 @@
                 },
                 {
                     "label": "apnea_bl",
-                    "description": "Antecedentes de apnea del sueÒo",
+                    "description": "Antecedentes de apnea del sue√±o",
                     "standard_classification": "icd-9, icd-10, ciap-1",
                     "format": "Boolean",
                     "type": "Categorical",
@@ -381,7 +381,7 @@
                 },
                 {
                     "label": "epoc_bl",
-                    "description": "Antecedentes de enfermedad pulmonar obstructiva crÛnica (EPOC)",
+                    "description": "Antecedentes de enfermedad pulmonar obstructiva cr√≥nica (EPOC)",
                     "standard_classification": "icd-9, icd-10, ciap-1",
                     "format": "Boolean",
                     "type": "Categorical",
@@ -400,7 +400,7 @@
                 },
                 {
                     "label": "eosinofilia_bl",
-                    "description": "IdentificaciÛn de eosinofilia sanguinea en an·lisis de sangre (laboratorio)",
+                    "description": "Identificaci√≥n de eosinofilia sanguinea en an√°lisis de sangre (laboratorio)",
                     "standard_classification": "",
                     "format": "Boolean",
                     "type": "Categorical",
@@ -408,7 +408,7 @@
                     "requirement_level": "Recommended",
                     "characteristic": "Observed",
                     "catalog_bl": false,
-                    "transformations_from_origin": "{0 = ' menor que 300 cÈlulas/microLitro', 1 = 'mayor o igual a 300 cÈlulas/microLitro'}",
+                    "transformations_from_origin": "{0 = ' menor que 300 c√©lulas/microLitro', 1 = 'mayor o igual a 300 c√©lulas/microLitro'}",
                     "possible_data_source": "Laboratorio, OMI-AP (datos laboratorio)",
                     "observations_comments": "",
                     "examples": "",
@@ -418,7 +418,7 @@
             "rules": []
         },
         {
-            "uuid": "1fa606a4-46ed-4508-a720-e885eb767a96",
+            "uuid": "dcea6bf6-c533-4b9f-84b6-4bde827d3dc2",
             "name": "continuidad_asistencial",
             "time_varying": false,
             "variables": [
@@ -440,7 +440,7 @@
                 },
                 {
                     "label": "fec_inicio_contacto_san_dt",
-                    "description": "Fecha inicio contacto asistencia sanitaria despuÈs del episodio Ìndice en los siguientes 6 meses",
+                    "description": "Fecha inicio contacto asistencia sanitaria despu√©s del episodio √≠ndice en los siguientes 6 meses",
                     "standard_classification": "ISO 8601",
                     "format": "Date",
                     "type": "Date",
@@ -456,7 +456,7 @@
                 },
                 {
                     "label": "fec_fin_contacto_san_dt",
-                    "description": "Fecha fin contacto asistencia sanitaria (en caso de ingreso en urgencias u hospitalizaciÛn)",
+                    "description": "Fecha fin contacto asistencia sanitaria (en caso de ingreso en urgencias u hospitalizaci√≥n)",
                     "standard_classification": "ISO 8601",
                     "format": "Date",
                     "type": "Date",
@@ -466,7 +466,7 @@
                     "catalog_bl": false,
                     "transformations_from_origin": "",
                     "possible_data_source": "Urgencias, CMBD",
-                    "observations_comments": "SÛlo estar· disponible en los episodios de ingreso en urgencias o ingreso hospitalario para el resto de contactos sanitarios (visitas) la fecha de fin de contacto ser· igual a la fecha inicio de contacto",
+                    "observations_comments": "S√≥lo estar√° disponible en los episodios de ingreso en urgencias o ingreso hospitalario para el resto de contactos sanitarios (visitas) la fecha de fin de contacto ser√° igual a la fecha inicio de contacto",
                     "examples": "",
                     "catalog": null
                 },
@@ -480,7 +480,7 @@
                     "requirement_level": "Required",
                     "characteristic": "Observed",
                     "catalog_bl": false,
-                    "transformations_from_origin": "{0 = 'atenciÛn primaria - medicina', 1 = 'atenciÛn primaria - enfermerÌa', 2 = 'consulta externa hospitalaria', 3 = 'urgencias hospitalarias', 4 = 'ingreso hospital'}",
+                    "transformations_from_origin": "{0 = 'atenci√≥n primaria - medicina', 1 = 'atenci√≥n primaria - enfermer√≠a', 2 = 'consulta externa hospitalaria', 3 = 'urgencias hospitalarias', 4 = 'ingreso hospital'}",
                     "possible_data_source": "OMI-AP, HIS, PCH-URG, CMBD",
                     "observations_comments": "",
                     "examples": "",
@@ -488,7 +488,7 @@
                 },
                 {
                     "label": "dx_visita_main_st",
-                    "description": "DiagnÛstico o episodio que motiva la visita ",
+                    "description": "Diagn√≥stico o episodio que motiva la visita ",
                     "standard_classification": "ciap1, cie-9-es, cie-10-es",
                     "format": "String",
                     "type": "Categorical",
@@ -498,7 +498,7 @@
                     "catalog_bl": false,
                     "transformations_from_origin": "",
                     "possible_data_source": "OMI-AP, PCH-URG, CMBD",
-                    "observations_comments": "Incluir el diagnÛstico cualquiera que sea su clasificaciÛn o su origen",
+                    "observations_comments": "Incluir el diagn√≥stico cualquiera que sea su clasificaci√≥n o su origen",
                     "examples": "",
                     "catalog": null
                 }
@@ -506,7 +506,7 @@
             "rules": []
         },
         {
-            "uuid": "a0be91a5-7d9d-430d-b9ab-cec991b2500c",
+            "uuid": "c37d8d95-ab79-4c78-90bc-180ba9f86b13",
             "name": "tratamientos",
             "time_varying": false,
             "variables": [
@@ -528,7 +528,7 @@
                 },
                 {
                     "label": "fec_ini_prescripcion",
-                    "description": "Fecha de inicio de la prescripciÛn",
+                    "description": "Fecha de inicio de la prescripci√≥n",
                     "standard_classification": "ISO 8601",
                     "format": "Date",
                     "type": "Date",
@@ -537,14 +537,14 @@
                     "characteristic": "Observed",
                     "catalog_bl": false,
                     "transformations_from_origin": "",
-                    "possible_data_source": "receta electrÛnica",
-                    "observations_comments": "Para todas las prescripciones activas de estos pacientes desde 6 meses antes de la fecha de ingreso en la cohorte hasta 6 meses despuÈs",
+                    "possible_data_source": "receta electr√≥nica",
+                    "observations_comments": "Para todas las prescripciones activas de estos pacientes desde 6 meses antes de la fecha de ingreso en la cohorte hasta 6 meses despu√©s",
                     "examples": "",
                     "catalog": null
                 },
                 {
                     "label": "fec_fin_prescripcion",
-                    "description": "Fecha de fin de la prescripciÛn",
+                    "description": "Fecha de fin de la prescripci√≥n",
                     "standard_classification": "ISO 8601",
                     "format": "Date",
                     "type": "Date",
@@ -553,14 +553,14 @@
                     "characteristic": "Observed",
                     "catalog_bl": false,
                     "transformations_from_origin": "",
-                    "possible_data_source": "receta electrÛnica",
+                    "possible_data_source": "receta electr√≥nica",
                     "observations_comments": "",
                     "examples": "",
                     "catalog": null
                 },
                 {
                     "label": "asma_atc_codes_cd",
-                    "description": "CÛdigo ATC (7 dÌgitos) de los medicamentos con prescripciÛn activa",
+                    "description": "C√≥digo ATC (7 d√≠gitos) de los medicamentos con prescripci√≥n activa",
                     "standard_classification": "ATC",
                     "format": "String",
                     "type": "Categorical",
@@ -569,7 +569,7 @@
                     "characteristic": "Observed",
                     "catalog_bl": true,
                     "transformations_from_origin": "",
-                    "possible_data_source": "receta electrÛnica",
+                    "possible_data_source": "receta electr√≥nica",
                     "observations_comments": "",
                     "examples": "",
                     "catalog": {
